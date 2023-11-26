@@ -11,7 +11,9 @@ go  another day
 good 
 29 lefe
 
-
+888
+/ui
+po
 
 nowe init 
 diidi gxllp20239320jfid 
